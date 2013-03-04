@@ -15,5 +15,6 @@ public class JavaApplication18 {
         System.out.println("Dodana nova linja hahahahaha");
         //the change is never bad
         //trece
+        //nek se vidi
     }
 }
